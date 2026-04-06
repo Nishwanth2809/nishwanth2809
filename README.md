@@ -18,7 +18,7 @@ I’m currently working on AI-based Brahmi Script Evaluation<br>I’m looking to
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishwanth2809&theme=tokyonight" />
 
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nishwanth2809&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
