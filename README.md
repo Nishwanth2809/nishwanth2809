@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m currently working on AI-based Brahmi Script Evaluation<br>I’m looking to collaborate on AI/ML projects, NLP applications, and full-stack development projects<br>Improving model performance and deployment strategies<br>Advanced Machine Learning and scalable backend systems<br>Python, Flask/FastAPI, AI projects, and NLP concepts<br>I build AI systems that can understand moods and play games
+👋 Hello, I'm Nishwanth!
+**AI/ML Engineer | Full-Stack Developer | Problem Solver**
+I bridge the gap between heavy Machine Learning models and seamless user experiences. Currently, I'm building an **AI-powered Brahmi Script Evaluator** while diving deep into advanced NLP concepts and scalable backend architecture (Python/FastAPI). 
+Whether it's building AI that understands human emotion, plays games, or decodes ancient texts—I love turning complex data into real-world solutions. Always open to collaborating on innovative AI/ML and Full-Stack projects!
 
 
 ## 🌐 Socials:
