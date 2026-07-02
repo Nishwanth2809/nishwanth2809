@@ -1,23 +1,32 @@
 # 💫 About Me:
-👋 Hello, I'm Nishwanth!
+# 👋 Hi, I'm Nishwanth Yarra
 
-**AI/ML Engineer | Full-Stack Developer | Problem Solver**
-I bridge the gap between heavy Machine Learning models and seamless user experiences. Currently, I'm building an **AI-powered Brahmi Script Evaluator** while diving deep into advanced NLP concepts and scalable backend architecture (Python/FastAPI). 
-Whether it's building AI that understands human emotion, plays games, or decodes ancient texts—I love turning complex data into real-world solutions. Always open to collaborating on innovative AI/ML and Full-Stack projects!
+### AI & Machine Learning Engineer | Full-Stack Developer | Final-Year B.Tech CSE (AI & ML)
+
+I'm a final-year Computer Science (AI & ML) student passionate about building AI-driven applications that solve real-world problems. I enjoy combining Machine Learning, NLP, Computer Vision, and modern web technologies to build intelligent, scalable, and user-centric software.
+
+Currently, I'm developing **CodeMentor**, an AI-powered coding platform that helps developers improve their programming skills through intelligent assistance, personalized learning, and real-time code analysis. Alongside this, I'm also working on an **AI-Based Brahmi Script Interpretation System**, exploring Deep Learning and Computer Vision for ancient script recognition.
+
+- 🎓 Final-Year B.Tech CSE (AI & ML)
+- 🚀 Currently Building: **CodeMentor** – AI-Powered Coding Platform
+- 🏛 Working on: AI-Based Brahmi Script Interpretation System
+- 🌱 Learning: LLMs, Advanced NLP, System Design, Cloud & DevOps
+- 💡 Interests: Artificial Intelligence, Machine Learning, Full-Stack Development, Computer Vision
+- 💬 Ask me about Python, Java, FastAPI, React, Machine Learning, and Backend Development
+- 🌐 Portfolio: **https://yarranishwanth.tech**
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishwanth_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yarranishwanth) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://nishwanth2809.github.io)
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishwanthyarra@gmail.com) 
+## 🌐 Connect With Me:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nishwanth_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yarranishwanth) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishwanthyarra@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://nishwanth2809.github.io)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
 
 ## 📊 GitHub Dashboard
 
-![Nishwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishwanth2809&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nishwanth2809&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishwanth2809&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nishwanth2809&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishwanth2809&theme=tokyonight&hide_border=true)
 
