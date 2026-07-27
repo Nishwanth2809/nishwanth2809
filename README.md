@@ -9,7 +9,6 @@ Currently, I'm developing **CodeMentor**, an AI-powered coding platform that hel
 
 - 🎓 Final-Year B.Tech CSE (AI & ML)
 - 🚀 Currently Building: **CodeMentor** – AI-Powered Coding Platform
-- 🏛 Working on: AI-Based Brahmi Script Interpretation System
 - 🌱 Learning: LLMs, Advanced NLP, System Design, Cloud & DevOps
 - 💡 Interests: Artificial Intelligence, Machine Learning, Full-Stack Development, Computer Vision
 - 💬 Ask me about Python, Java, FastAPI, React, Machine Learning, and Backend Development
