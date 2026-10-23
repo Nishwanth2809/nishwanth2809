@@ -90,48 +90,73 @@ An AI-based system exploring recognition and interpretation of ancient Brahmi sc
 <br/>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🛠️ &nbsp;Tech Arsenal
+## 🛠️ &nbsp;Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🧬 AI / ML**
+### 🤖 AI, ML & Data
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn,pandas,numpy&perline=7" alt="AI/ML" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn,pandas,numpy&perline=7" alt="Python, PyTorch, TensorFlow, Keras, scikit-learn, pandas and NumPy" />
 
-<br/>
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</td>
+<td width="50%" valign="top">
 
-**⚙️ Backend**
+### ⚙️ Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=py,java,c,fastapi,flask,nodejs,express&perline=7" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=java,c,fastapi,flask,nodejs,express&perline=6" alt="Java, C, FastAPI, Flask, Node.js and Express" />
 
-**🎨 Frontend**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,tailwind,vite&perline=8" alt="Frontend" />
+### 🎨 Frontend & Mobile
 
-**🗄️ Databases**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,tailwind,vite&perline=8" alt="HTML, CSS, JavaScript, React, Next.js, Angular, Tailwind CSS and Vite" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase&perline=4" alt="Databases" />
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 
-**☁️ DevOps & Tools**
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vercel,postman,vscode,figma&perline=9" alt="DevOps" />
+### 🗄️ Databases & Cloud
 
-<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase,docker,linux,nginx,vercel&perline=8" alt="PostgreSQL, MongoDB, SQLite, Firebase, Docker, Linux, Nginx and Vercel" />
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" alt="Git, GitHub, Postman and VS Code" />
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ Design & Payments
+
+<img src="https://skillicons.dev/icons?i=figma&perline=1" alt="Figma" />
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=adobexd&logoColor=FF61F6)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
