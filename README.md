@@ -9,8 +9,6 @@
 
 <br/>
 
-<img src="https://hits.sh/github.com/Nishwanth2809.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00f7ff&labelColor=0d1117" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Nishwanth2809?label=FOLLOWERS&style=for-the-badge&color=8E75B2&logo=github" alt="Followers" />
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-39ff14?style=for-the-badge" alt="Open to opportunities" />
 
 <br/><br/>
@@ -43,26 +41,28 @@ class NishwanthYarra:
 <br/>
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-## 🚀 &nbsp;Currently Building
+## 🚀 &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 CodeMentor
-**AI-powered coding platform**
+### ⚡ Twiller
+**Full-Stack Social Platform**
 
-Helps developers level up their programming skills through:
+A production-style social application developed with modern web technologies.
 
-- 🤖 Intelligent, context-aware assistance
-- 🎯 Personalized learning paths
-- ⚡ Real-time code analysis
+- 🔐 Firebase authentication
+- 🔗 Scalable REST APIs
+- 💳 Razorpay payment integration
+- 🛡️ Security-focused application workflows
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+[**Live Project ↗**](https://twiller-ruby.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -70,16 +70,18 @@ Helps developers level up their programming skills through:
 ### 📜 Brahmi Script Interpreter
 **Deep Learning × Computer Vision × Heritage**
 
-Recognising and interpreting ancient Brahmi script with neural networks:
+An AI-based system exploring recognition and interpretation of ancient Brahmi script from images.
 
 - 👁️ Character recognition from images
-- 🧬 Deep-learning based classification
-- 🏛️ Making history machine-readable
+- 🧬 Deep learning-based classification
+- 🏛️ Making historical text machine-readable
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+[**Project Details ↗**](https://yarranishwanth.tech)
 
 </td>
 </tr>
@@ -158,20 +160,12 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://github.com/Nishwanth2809">
-  <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nishwanth2809&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Nishwanth2809">
-  <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nishwanth2809&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Top Languages" />
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Nishwanth2809&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishwanth2809&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity graph" />
+  <img width="98%" src="https://raw.githubusercontent.com/Nishwanth2809/Nishwanth2809/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub profile activity overview" />
+  <br/>
+  <img width="49%" src="https://raw.githubusercontent.com/Nishwanth2809/Nishwanth2809/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub statistics" />
+  <img width="49%" src="https://raw.githubusercontent.com/Nishwanth2809/Nishwanth2809/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages across repositories" />
+  <br/><br/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nishwanth2809&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub contribution activity graph" />
 
 </div>
 
