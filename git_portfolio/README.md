@@ -98,7 +98,7 @@ An AI-based system exploring recognition and interpretation of ancient Brahmi sc
 
 ### 🤖 AI, ML & Data
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn,pandas,numpy&perline=7" alt="Python, PyTorch, TensorFlow, Keras, scikit-learn, pandas and NumPy" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn,pandas,numpy&perline=4" alt="Python, PyTorch, TensorFlow, Keras, scikit-learn, pandas and NumPy" />
 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
@@ -112,7 +112,7 @@ An AI-based system exploring recognition and interpretation of ancient Brahmi sc
 
 ### ⚙️ Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=java,c,fastapi,flask,nodejs,express&perline=6" alt="Java, C, FastAPI, Flask, Node.js and Express" />
+<img src="https://skillicons.dev/icons?i=java,c,fastapi,flask,nodejs,express&perline=4" alt="Java, C, FastAPI, Flask, Node.js and Express" />
 
 </td>
 </tr>
@@ -121,7 +121,7 @@ An AI-based system exploring recognition and interpretation of ancient Brahmi sc
 
 ### 🎨 Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,tailwind,vite&perline=8" alt="HTML, CSS, JavaScript, React, Next.js, Angular, Tailwind CSS and Vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,tailwind,vite&perline=4" alt="HTML, CSS, JavaScript, React, Next.js, Angular, Tailwind CSS and Vite" />
 
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 
@@ -130,7 +130,7 @@ An AI-based system exploring recognition and interpretation of ancient Brahmi sc
 
 ### 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase,docker,linux,nginx,vercel&perline=8" alt="PostgreSQL, MongoDB, SQLite, Firebase, Docker, Linux, Nginx and Vercel" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase,docker,linux,nginx,vercel&perline=4" alt="PostgreSQL, MongoDB, SQLite, Firebase, Docker, Linux, Nginx and Vercel" />
 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
