@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24&height=260&section=header&text=NISHWANTH%20YARRA&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder&descSize=20&descAlignY=60&stroke=00f7ff&strokeWidth=1" width="100%" alt="Nishwanth Yarra banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24&height=260&section=header&text=NISHWANTH%20YARRA&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20and%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descSize=20&descAlignY=60&stroke=00f7ff&strokeWidth=1" width="100%" alt="Nishwanth Yarra banner" />
 
 <a href="https://yarranishwanth.tech">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&multiline=false&width=760&height=60&lines=Turning+data+into+intelligent+software+%F0%9F%A7%A0;Building+CodeMentor%3A+an+AI+coding+mentor+%F0%9F%9A%80;Teaching+machines+to+read+ancient+Brahmi+script+%F0%9F%93%9C;Final-Year+B.Tech+CSE+%28AI+%26+ML%29+%F0%9F%8E%93;Shipping+clean+APIs+and+beautiful+UIs+%E2%9A%A1" alt="Typing animation" />
@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nishwanth2809&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" alt="Profile views" />
+<img src="https://hits.sh/github.com/Nishwanth2809.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00f7ff&labelColor=0d1117" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Nishwanth2809?label=FOLLOWERS&style=for-the-badge&color=8E75B2&logo=github" alt="Followers" />
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-39ff14?style=for-the-badge" alt="Open to opportunities" />
 
