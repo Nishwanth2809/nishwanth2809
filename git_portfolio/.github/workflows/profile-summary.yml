@@ -1,0 +1,17 @@
+name: GitHub Profile Summary
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '25 3 * * *'
+permissions:
+  contents: write
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: Nishwanth2809
